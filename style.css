@@ -209,6 +209,9 @@ nav li {
 .row{
     margin-bottom:30px;
 }
+.news-hcn:hover, .news-hcn2:hover, .news-hcn3:hover{
+    background-color:#DCC6F5;
+}
 .news-hcn{
     float:left;
     margin:0 15px;
